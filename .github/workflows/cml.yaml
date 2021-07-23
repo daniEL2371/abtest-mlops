@@ -12,5 +12,5 @@ jobs:
           REPO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           pip install -r requirements.txt
-          cat CML setup >> report.md
+          cat "CML-setup" >> report.md
           cml-send-comment report.md
