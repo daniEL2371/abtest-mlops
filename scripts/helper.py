@@ -1,13 +1,24 @@
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import Normalizer, MinMaxScaler
+import pickle
+
+
 
 
 class Helper:
   
   def __init__(self):
     pass
-  
+
+  def read_model(self, file_name):
+    with open(f"../models/{file_name}.pkl", "rb") as f:
+        return pickle.load(f)
+
+  def write_model(self, file_name, model):
+      with open(f"../models/{file_name}.pkl", "wb") as f:
+          pickle.dump(model, f)
+    
   def read_csv(self, csv_path, missing_values=[]):
     try:
         df = pd.read_csv(csv_path, na_values=missing_values)
