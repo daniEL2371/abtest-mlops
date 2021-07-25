@@ -16,4 +16,4 @@ jobs:
         env:
           REPO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python dt_tune_train.py
+          python scripts/dt_tune_train.py
