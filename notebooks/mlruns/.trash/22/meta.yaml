@@ -1,0 +1,4 @@
+artifact_location: file:///Users/daniel/Desktop/ab_test_mlops/notebooks/mlruns/22
+experiment_id: '22'
+lifecycle_stage: active
+name: XGBoost-2021-07-24 22:01:17.349064

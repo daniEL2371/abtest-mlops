@@ -1,0 +1,4 @@
+artifact_location: file:///Users/daniel/Desktop/ab_test_mlops/notebooks/mlruns/26
+experiment_id: '26'
+lifecycle_stage: active
+name: DecisionTree-tune

@@ -1,0 +1,4 @@
+artifact_location: file:///Users/daniel/Desktop/ab_test_mlops/notebooks/mlruns/18
+experiment_id: '18'
+lifecycle_stage: active
+name: DecisionTree-2021-07-24 21:49:30.499356
