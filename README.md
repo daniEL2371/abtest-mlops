@@ -5,8 +5,8 @@
 - [Overview](##abstract)
 - [Requirements](#setup)
 - [Install](#install)
-- [Hyperparameter Tuning]
-- [Model Tracking]
+- [Hyperparameter_Tuning]
+- [Model_Tracking]
 
 - [Features](#features)
   - [Data](#data.csv)
