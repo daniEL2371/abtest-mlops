@@ -1,14 +1,12 @@
 # abtest-mlops
 
-# SmartAd_abtest
-
 **Table of content**
 
 - [Overview](##abstract)
 - [Requirements](#setup)
 - [Install](#install)
-- [Hyperparameter-Tuning](#Hyperparameter tuning)
-- [Model-Tracking](#Model tracking)
+- [Hyperparameter Tuning]
+- [Model Tracking]
 
 - [Features](#features)
   - [Data](#data.csv)
@@ -92,7 +90,7 @@ mlflow ui
 
 ## Models
 
-All models that are trained are saved inside this folder
+All models that are trained are saved inside models folder
 
 ## Scripts
 
