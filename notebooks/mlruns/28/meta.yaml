@@ -1,0 +1,4 @@
+artifact_location: file:///Users/daniel/Desktop/ab_test_mlops/notebooks/mlruns/28
+experiment_id: '28'
+lifecycle_stage: active
+name: XGBoost-tune

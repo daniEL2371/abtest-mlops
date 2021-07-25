@@ -1,0 +1,4 @@
+artifact_location: file:///Users/daniel/Desktop/ab_test_mlops/notebooks/mlruns/3
+experiment_id: '3'
+lifecycle_stage: active
+name: asas

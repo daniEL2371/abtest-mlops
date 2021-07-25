@@ -1,0 +1,4 @@
+artifact_location: file:///Users/daniel/Desktop/ab_test_mlops/notebooks/mlruns/27
+experiment_id: '27'
+lifecycle_stage: active
+name: LogisticRegression-tune

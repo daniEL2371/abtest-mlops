@@ -1,0 +1,4 @@
+artifact_location: file:///Users/daniel/Desktop/ab_test_mlops/notebooks/mlruns/12
+experiment_id: '12'
+lifecycle_stage: active
+name: ML_Approach_ABTEST-2021-07-24 14:36:42.120433

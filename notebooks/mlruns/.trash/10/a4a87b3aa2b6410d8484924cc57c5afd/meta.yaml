@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/daniel/Desktop/ab_test_mlops/notebooks/mlruns/10/a4a87b3aa2b6410d8484924cc57c5afd/artifacts
+end_time: 1627125141392
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+name: ''
+run_id: a4a87b3aa2b6410d8484924cc57c5afd
+run_uuid: a4a87b3aa2b6410d8484924cc57c5afd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1627125140676
+status: 3
+tags: []
+user_id: daniel

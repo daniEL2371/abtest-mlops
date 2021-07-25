@@ -1,0 +1,4 @@
+artifact_location: file:///Users/daniel/Desktop/ab_test_mlops/notebooks/mlruns/19
+experiment_id: '19'
+lifecycle_stage: active
+name: LogisticRegression-2021-07-24 21:49:30.499356

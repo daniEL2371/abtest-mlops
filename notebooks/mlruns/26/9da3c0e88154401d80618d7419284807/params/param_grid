@@ -1,0 +1,1 @@
+{'criterion': ['gini', 'entropy'], 'max_depth': [4, 5, 6, 7, 8, 9, 10]}
