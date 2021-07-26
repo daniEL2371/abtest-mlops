@@ -3,37 +3,51 @@ import pandas as pd
 from sklearn.preprocessing import Normalizer, MinMaxScaler
 import pickle
 
+from app_logger import App_Logger
+
+
+
 
 
 
 class Helper:
   
   def __init__(self):
-    pass
+      self.logger = App_Logger("helper.log").get_app_logger()
+
 
   def read_model(self, file_name):
     with open(f"../models/{file_name}.pkl", "rb") as f:
+        self.logger.info(f"Model loaded from {file_name}.pkl")
         return pickle.load(f)
 
   def write_model(self, file_name, model):
       with open(f"../models/{file_name}.pkl", "wb") as f:
+          self.logger.info(f"Model dumped to {file_name}.pkl")
           pickle.dump(model, f)
     
   def read_csv(self, csv_path, missing_values=[]):
     try:
         df = pd.read_csv(csv_path, na_values=missing_values)
         print("file read as csv")
+        self.logger.info(f"file read as csv from {csv_path}")
         return df
     except FileNotFoundError:
         print("file not found")
+        self.logger.error(f"file not found, path:{csv_path}")
+
   
   def save_csv(self, df, csv_path):
     try:
         df.to_csv(csv_path, index=False)
         print('File Successfully Saved.!!!')
+        self.logger.info(f"File Successfully Saved to {csv_path}")
+
 
     except Exception:
         print("Save failed...")
+        self.logger.error(f"saving failed")
+
 
     return df
     
