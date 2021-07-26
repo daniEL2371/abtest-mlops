@@ -19,6 +19,7 @@
 - [Models](#Models)
 - [Scripts](#scripts)
   - [Utility helper functions](scripts/helper.py)
+  - [Logger](scripts/app_logger.py)
   - [Plotting graph](scripts/plots.py)
   - [Decision Tree Model](scripts/decisionTreesModel.py)
   - [Logistic Regression Model](scripts/logesticRegressionModel.py)
@@ -95,6 +96,7 @@ All models that are trained are saved inside models folder
 ## Scripts
 
 - Utility helper functions is implemented in helper.py module
+- Logger class for the project is implemented in app_logger.py module
 - Plotting graphs like scatter plot, histogram, distribution graph, heat map, bar plot, and count plot is is implemented in scripts/plots.py module
 - A custome DecisionTree Model that extends sklearn's DecisionTree Model for A/B testing is implemeted in decisionTreesModel.py module
 - A custome LogisticRegression that extends sklearn's LogisticRegression Model for A/B testing is implemeted inside logesticRegressionModel.py

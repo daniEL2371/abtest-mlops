@@ -19,7 +19,8 @@ sys.path.append(os.path.abspath(os.path.join('../scripts')))
 from helper import Helper
 helper = Helper()
 
-
+from app_logger import App_Logger
+logger = App_Logger("models.log").get_app_logger()
 
 
 params = {'n_estimators': [20, 40, 60, 80]}
@@ -64,6 +65,10 @@ def XGBoost_tune(clf, splitted_data, loss_function, folds=5, params = params, ru
 
         mlflow.log_metric("loss", loss)
         mlflow.log_metric("accuracy", acc)
+
+  logger.info(f"xgb model tuning with run_name: {run_name} done. ")
+  logger.info(f"model features logged to mlfow with  experiment: XGBoost-tune-tune and run_name{run_name} and  done. ")
+
 
 
 

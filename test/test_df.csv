@@ -1,0 +1,11 @@
+auction_id,experiment,date,hour,device_make,platform_os,browser,yes,no
+fc16298f-ca7b-406e-9bc8-a0399d25cdc0,exposed,2020-07-05,17,OnePlus ONEPLUS A5010,6,Chrome Mobile WebView,0,0
+70ecfd3d-92b1-4d03-98df-837905788079,control,2020-07-03,15,iPhone,5,Mobile Safari,0,0
+3596746b-376a-465d-b9b2-b4108c8d08fc,exposed,2020-07-05,8,Samsung SM-J730F,6,Chrome Mobile WebView,1,0
+c9976cf3-4564-4b58-8b6c-d3ee6b762b1c,control,2020-07-08,4,RNE-L21,6,Facebook,0,0
+eb84f866-d7ad-4151-872f-2b109cf3a10a,control,2020-07-06,5,Generic Smartphone,6,Chrome Mobile,0,0
+d5e754f0-37fa-4429-bfa5-48a3070f575a,exposed,2020-07-05,14,Generic Smartphone,6,Chrome Mobile,0,0
+205546a3-5b19-4fcc-87a0-cf6177d889af,control,2020-07-08,16,Generic Smartphone,6,Chrome Mobile,1,0
+60e51496-0008-4836-baf5-24295395ac08,exposed,2020-07-03,10,Generic Smartphone,6,Chrome Mobile,1,0
+dd7584e4-db27-415d-b247-d227a2af6809,exposed,2020-07-10,12,Generic Smartphone,6,Chrome Mobile,0,0
+e54b47f7-1443-4a87-b5e7-d1104b714cfd,control,2020-07-05,21,Generic Smartphone,6,Chrome Mobile,0,0

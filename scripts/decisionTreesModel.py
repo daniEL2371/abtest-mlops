@@ -7,6 +7,8 @@ from sklearn import metrics
 from sklearn.model_selection import KFold
 from sklearn.metrics import mean_squared_error
 
+from app_logger import App_Logger
+
 
 def loss_function(actual, pred):
     rmse = np.sqrt(mean_squared_error(actual, pred))
@@ -22,6 +24,8 @@ class DecisionTreesModel:
         self.y_test = y_test
         
         self.clf = DecisionTreeClassifier(max_depth=4)
+        self.logger = App_Logger("models.log").get_app_logger()
+
         
     def train(self, folds=1):
         
@@ -31,6 +35,8 @@ class DecisionTreesModel:
         
         loss_arr = []
         acc_arr = []
+        self.logger.info(f"Model DecisionTreesModel training started")
+
         for i in range(folds):
             train_index, valid_index = next(iterator)
             
@@ -80,9 +86,11 @@ class DecisionTreesModel:
         return fi_df
     
     def __printAccuracy(self, acc, step=1, label=""):
+        self.logger.info(f"Model DecisionTreesModel accuracy: {acc}")
         print(f"step {step}: {label} Accuracy of DecisionTreesModel is: {acc:.3f}")
     
     def __printLoss(self, loss, step=1, label=""):
+        self.logger.info(f"Model DecisionTreesModel accuracy: {loss}")
         print(f"step {step}: {label} Loss of DecisionTreesModel is: {loss:.3f}")
     
     def calculate_score(self, pred, actual):

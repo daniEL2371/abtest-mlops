@@ -1,0 +1,24 @@
+2021-07-26 09:52:04,900 : INFO : app_logger : Testing Helper module started
+2021-07-26 09:52:04,913 : INFO : app_logger : Testing save_csv: passed
+2021-07-26 09:52:04,923 : INFO : app_logger : Testing read_csv: passed
+2021-07-26 09:52:23,177 : INFO : app_logger : Testing Helper module started
+2021-07-26 09:52:23,184 : INFO : app_logger : Testing save_csv: passed
+2021-07-26 09:52:23,198 : INFO : app_logger : Testing read_csv: passed
+2021-07-26 09:52:25,148 : INFO : app_logger : Testing Helper module started
+2021-07-26 09:52:25,157 : INFO : app_logger : Testing save_csv: passed
+2021-07-26 09:52:25,166 : INFO : app_logger : Testing read_csv: passed
+2021-07-26 09:52:26,961 : INFO : app_logger : Testing Helper module started
+2021-07-26 09:52:26,967 : INFO : app_logger : Testing save_csv: passed
+2021-07-26 09:52:26,977 : INFO : app_logger : Testing read_csv: passed
+2021-07-26 09:52:28,749 : INFO : app_logger : Testing Helper module started
+2021-07-26 09:52:28,758 : INFO : app_logger : Testing save_csv: passed
+2021-07-26 09:52:28,769 : INFO : app_logger : Testing read_csv: passed
+2021-07-26 09:52:32,486 : INFO : app_logger : Testing Helper module started
+2021-07-26 09:52:32,493 : INFO : app_logger : Testing save_csv: passed
+2021-07-26 09:52:32,503 : INFO : app_logger : Testing read_csv: passed
+2021-07-26 09:52:35,532 : INFO : app_logger : Testing Helper module started
+2021-07-26 09:52:35,538 : INFO : app_logger : Testing save_csv: passed
+2021-07-26 09:52:35,547 : INFO : app_logger : Testing read_csv: passed
+2021-07-26 09:52:38,114 : INFO : app_logger : Testing Helper module started
+2021-07-26 09:52:38,122 : INFO : app_logger : Testing save_csv: passed
+2021-07-26 09:52:38,130 : INFO : app_logger : Testing read_csv: passed

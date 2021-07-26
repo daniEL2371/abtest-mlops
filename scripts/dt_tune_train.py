@@ -19,6 +19,8 @@ sys.path.append(os.path.abspath(os.path.join('../scripts')))
 from helper import Helper
 helper = Helper()
 
+from app_logger import App_Logger
+logger = App_Logger("models.log").get_app_logger()
 
 
 
@@ -45,7 +47,6 @@ def DecisionTree_tune(clf, splitted_data, loss_function, folds=5, params = param
   
   X_train, X_test, y_train, y_test = splitted_data
 
-
   mlflow.set_experiment('DecisionTree-tune')
   mlflow.sklearn.autolog()
   with mlflow.start_run(run_name=run_name) as run:
@@ -69,6 +70,11 @@ def DecisionTree_tune(clf, splitted_data, loss_function, folds=5, params = param
 
 
   best_dt_Model = searchResults.best_estimator_
+  logger.info(f"DecisionTree model tuning with run_name: {run_name} done. ")
+  logger.info(f"model features logged to mlfow with  experiment: DecisionTree-tune and run_name{run_name} and  done. ")
+
+
+
 
   if (save and save_path != None):
       helper.write_model(save_path, best_dt_Model)

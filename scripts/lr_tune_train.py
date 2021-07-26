@@ -18,7 +18,8 @@ sys.path.append(os.path.abspath(os.path.join('../scripts')))
 from helper import Helper
 helper = Helper()
 
-
+from app_logger import App_Logger
+logger = App_Logger("models.log").get_app_logger()
 
 params = {"C": np.logspace(-3,3,7), "penalty":["l2"]}
 
@@ -67,6 +68,8 @@ def LogisticeRegressionTune(clf, splitted_data, loss_function, folds=5, params =
 
 
   best_dt_Model = searchResults.best_estimator_
+  logger.info(f"LR model tuning with run_name: {run_name} done. ")
+  logger.info(f"model features logged to mlfow with  experiment: LogisticRegression-tune and run_name{run_name} and  done. ")
 
   if (save and save_path != None):
       helper.write_model(save_path, best_dt_Model)
