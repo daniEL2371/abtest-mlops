@@ -1,0 +1,726 @@
+2021-07-26 10:34:09,221 : INFO : app_logger : Model DecisionTreesModel training started
+2021-07-26 10:34:09,247 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.5714285714285714
+2021-07-26 10:34:09,251 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.6546536707079771
+2021-07-26 10:34:09,272 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.5357142857142857
+2021-07-26 10:34:09,275 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.6813851438692469
+2021-07-26 10:34:09,300 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.5580357142857143
+2021-07-26 10:34:09,303 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.6648039453209388
+2021-07-26 10:34:09,328 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.5067264573991032
+2021-07-26 10:34:09,330 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.7023343524283123
+2021-07-26 10:34:09,355 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.5650224215246636
+2021-07-26 10:34:09,357 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.6595282999806273
+2021-07-26 10:34:09,361 : INFO : app_logger : Model dumped to browser_decision_tree_model.pkl
+2021-07-26 10:34:09,379 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.544
+2021-07-26 10:34:17,186 : INFO : app_logger : Model DecisionTreesModel training started
+2021-07-26 10:34:17,186 : INFO : app_logger : Model DecisionTreesModel training started
+2021-07-26 10:34:17,203 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.5535714285714286
+2021-07-26 10:34:17,203 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.5535714285714286
+2021-07-26 10:34:17,206 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.6681531047810609
+2021-07-26 10:34:17,206 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.6681531047810609
+2021-07-26 10:34:17,230 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.5267857142857143
+2021-07-26 10:34:17,230 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.5267857142857143
+2021-07-26 10:34:17,236 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.6879057244377936
+2021-07-26 10:34:17,236 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.6879057244377936
+2021-07-26 10:34:17,257 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.5535714285714286
+2021-07-26 10:34:17,257 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.5535714285714286
+2021-07-26 10:34:17,260 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.6681531047810609
+2021-07-26 10:34:17,260 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.6681531047810609
+2021-07-26 10:34:17,280 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.5022421524663677
+2021-07-26 10:34:17,280 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.5022421524663677
+2021-07-26 10:34:17,285 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.705519558576254
+2021-07-26 10:34:17,285 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.705519558576254
+2021-07-26 10:34:17,320 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.5426008968609866
+2021-07-26 10:34:17,320 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.5426008968609866
+2021-07-26 10:34:17,325 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.6763128737049247
+2021-07-26 10:34:17,325 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.6763128737049247
+2021-07-26 10:34:17,336 : INFO : app_logger : Model dumped to platform_os_decision_tree_model.pkl
+2021-07-26 10:34:17,336 : INFO : app_logger : Model dumped to platform_os_decision_tree_model.pkl
+2021-07-26 10:34:17,936 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.568
+2021-07-26 10:34:17,936 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.568
+2021-07-26 10:34:21,633 : INFO : app_logger : Model LogisticRegression training started with kflod: 5
+2021-07-26 10:34:21,633 : INFO : app_logger : Model LogisticRegression training started with kflod: 5
+2021-07-26 10:34:21,633 : INFO : app_logger : Model LogisticRegression training started with kflod: 5
+2021-07-26 10:34:21,664 : INFO : app_logger : Model LogisticRegression accuracy: 0.5446428571428571
+2021-07-26 10:34:21,664 : INFO : app_logger : Model LogisticRegression accuracy: 0.5446428571428571
+2021-07-26 10:34:21,664 : INFO : app_logger : Model LogisticRegression accuracy: 0.5446428571428571
+2021-07-26 10:34:21,665 : INFO : app_logger : Model LogisticRegression loss: 0.674801558131828
+2021-07-26 10:34:21,665 : INFO : app_logger : Model LogisticRegression loss: 0.674801558131828
+2021-07-26 10:34:21,665 : INFO : app_logger : Model LogisticRegression loss: 0.674801558131828
+2021-07-26 10:34:21,693 : INFO : app_logger : Model LogisticRegression accuracy: 0.5267857142857143
+2021-07-26 10:34:21,693 : INFO : app_logger : Model LogisticRegression accuracy: 0.5267857142857143
+2021-07-26 10:34:21,693 : INFO : app_logger : Model LogisticRegression accuracy: 0.5267857142857143
+2021-07-26 10:34:21,695 : INFO : app_logger : Model LogisticRegression loss: 0.6879057244377936
+2021-07-26 10:34:21,695 : INFO : app_logger : Model LogisticRegression loss: 0.6879057244377936
+2021-07-26 10:34:21,695 : INFO : app_logger : Model LogisticRegression loss: 0.6879057244377936
+2021-07-26 10:34:21,733 : INFO : app_logger : Model LogisticRegression accuracy: 0.5535714285714286
+2021-07-26 10:34:21,733 : INFO : app_logger : Model LogisticRegression accuracy: 0.5535714285714286
+2021-07-26 10:34:21,733 : INFO : app_logger : Model LogisticRegression accuracy: 0.5535714285714286
+2021-07-26 10:34:21,735 : INFO : app_logger : Model LogisticRegression loss: 0.6681531047810609
+2021-07-26 10:34:21,735 : INFO : app_logger : Model LogisticRegression loss: 0.6681531047810609
+2021-07-26 10:34:21,735 : INFO : app_logger : Model LogisticRegression loss: 0.6681531047810609
+2021-07-26 10:34:21,780 : INFO : app_logger : Model LogisticRegression accuracy: 0.5426008968609866
+2021-07-26 10:34:21,780 : INFO : app_logger : Model LogisticRegression accuracy: 0.5426008968609866
+2021-07-26 10:34:21,780 : INFO : app_logger : Model LogisticRegression accuracy: 0.5426008968609866
+2021-07-26 10:34:21,783 : INFO : app_logger : Model LogisticRegression loss: 0.6763128737049247
+2021-07-26 10:34:21,783 : INFO : app_logger : Model LogisticRegression loss: 0.6763128737049247
+2021-07-26 10:34:21,783 : INFO : app_logger : Model LogisticRegression loss: 0.6763128737049247
+2021-07-26 10:34:21,827 : INFO : app_logger : Model LogisticRegression accuracy: 0.5739910313901345
+2021-07-26 10:34:21,827 : INFO : app_logger : Model LogisticRegression accuracy: 0.5739910313901345
+2021-07-26 10:34:21,827 : INFO : app_logger : Model LogisticRegression accuracy: 0.5739910313901345
+2021-07-26 10:34:21,828 : INFO : app_logger : Model LogisticRegression loss: 0.652693625378604
+2021-07-26 10:34:21,828 : INFO : app_logger : Model LogisticRegression loss: 0.652693625378604
+2021-07-26 10:34:21,828 : INFO : app_logger : Model LogisticRegression loss: 0.652693625378604
+2021-07-26 10:34:21,833 : INFO : app_logger : Model dumped to browser_Logestic_Reg_model.pkl
+2021-07-26 10:34:21,833 : INFO : app_logger : Model dumped to browser_Logestic_Reg_model.pkl
+2021-07-26 10:34:21,833 : INFO : app_logger : Model dumped to browser_Logestic_Reg_model.pkl
+2021-07-26 10:34:22,371 : INFO : app_logger : Model LogisticRegression accuracy: 0.552
+2021-07-26 10:34:22,371 : INFO : app_logger : Model LogisticRegression accuracy: 0.552
+2021-07-26 10:34:22,371 : INFO : app_logger : Model LogisticRegression accuracy: 0.552
+2021-07-26 10:34:24,248 : INFO : app_logger : Model LogisticRegression training started with kflod: 5
+2021-07-26 10:34:24,248 : INFO : app_logger : Model LogisticRegression training started with kflod: 5
+2021-07-26 10:34:24,248 : INFO : app_logger : Model LogisticRegression training started with kflod: 5
+2021-07-26 10:34:24,248 : INFO : app_logger : Model LogisticRegression training started with kflod: 5
+2021-07-26 10:34:24,277 : INFO : app_logger : Model LogisticRegression accuracy: 0.5178571428571429
+2021-07-26 10:34:24,277 : INFO : app_logger : Model LogisticRegression accuracy: 0.5178571428571429
+2021-07-26 10:34:24,277 : INFO : app_logger : Model LogisticRegression accuracy: 0.5178571428571429
+2021-07-26 10:34:24,277 : INFO : app_logger : Model LogisticRegression accuracy: 0.5178571428571429
+2021-07-26 10:34:24,278 : INFO : app_logger : Model LogisticRegression loss: 0.6943650748294136
+2021-07-26 10:34:24,278 : INFO : app_logger : Model LogisticRegression loss: 0.6943650748294136
+2021-07-26 10:34:24,278 : INFO : app_logger : Model LogisticRegression loss: 0.6943650748294136
+2021-07-26 10:34:24,278 : INFO : app_logger : Model LogisticRegression loss: 0.6943650748294136
+2021-07-26 10:34:24,308 : INFO : app_logger : Model LogisticRegression accuracy: 0.5
+2021-07-26 10:34:24,308 : INFO : app_logger : Model LogisticRegression accuracy: 0.5
+2021-07-26 10:34:24,308 : INFO : app_logger : Model LogisticRegression accuracy: 0.5
+2021-07-26 10:34:24,308 : INFO : app_logger : Model LogisticRegression accuracy: 0.5
+2021-07-26 10:34:24,310 : INFO : app_logger : Model LogisticRegression loss: 0.7071067811865476
+2021-07-26 10:34:24,310 : INFO : app_logger : Model LogisticRegression loss: 0.7071067811865476
+2021-07-26 10:34:24,310 : INFO : app_logger : Model LogisticRegression loss: 0.7071067811865476
+2021-07-26 10:34:24,310 : INFO : app_logger : Model LogisticRegression loss: 0.7071067811865476
+2021-07-26 10:34:24,346 : INFO : app_logger : Model LogisticRegression accuracy: 0.5580357142857143
+2021-07-26 10:34:24,346 : INFO : app_logger : Model LogisticRegression accuracy: 0.5580357142857143
+2021-07-26 10:34:24,346 : INFO : app_logger : Model LogisticRegression accuracy: 0.5580357142857143
+2021-07-26 10:34:24,346 : INFO : app_logger : Model LogisticRegression accuracy: 0.5580357142857143
+2021-07-26 10:34:24,347 : INFO : app_logger : Model LogisticRegression loss: 0.6648039453209388
+2021-07-26 10:34:24,347 : INFO : app_logger : Model LogisticRegression loss: 0.6648039453209388
+2021-07-26 10:34:24,347 : INFO : app_logger : Model LogisticRegression loss: 0.6648039453209388
+2021-07-26 10:34:24,347 : INFO : app_logger : Model LogisticRegression loss: 0.6648039453209388
+2021-07-26 10:34:24,399 : INFO : app_logger : Model LogisticRegression accuracy: 0.5336322869955157
+2021-07-26 10:34:24,399 : INFO : app_logger : Model LogisticRegression accuracy: 0.5336322869955157
+2021-07-26 10:34:24,399 : INFO : app_logger : Model LogisticRegression accuracy: 0.5336322869955157
+2021-07-26 10:34:24,399 : INFO : app_logger : Model LogisticRegression accuracy: 0.5336322869955157
+2021-07-26 10:34:24,402 : INFO : app_logger : Model LogisticRegression loss: 0.6829112043336852
+2021-07-26 10:34:24,402 : INFO : app_logger : Model LogisticRegression loss: 0.6829112043336852
+2021-07-26 10:34:24,402 : INFO : app_logger : Model LogisticRegression loss: 0.6829112043336852
+2021-07-26 10:34:24,402 : INFO : app_logger : Model LogisticRegression loss: 0.6829112043336852
+2021-07-26 10:34:24,445 : INFO : app_logger : Model LogisticRegression accuracy: 0.5515695067264574
+2021-07-26 10:34:24,445 : INFO : app_logger : Model LogisticRegression accuracy: 0.5515695067264574
+2021-07-26 10:34:24,445 : INFO : app_logger : Model LogisticRegression accuracy: 0.5515695067264574
+2021-07-26 10:34:24,445 : INFO : app_logger : Model LogisticRegression accuracy: 0.5515695067264574
+2021-07-26 10:34:24,447 : INFO : app_logger : Model LogisticRegression loss: 0.669649530182425
+2021-07-26 10:34:24,447 : INFO : app_logger : Model LogisticRegression loss: 0.669649530182425
+2021-07-26 10:34:24,447 : INFO : app_logger : Model LogisticRegression loss: 0.669649530182425
+2021-07-26 10:34:24,447 : INFO : app_logger : Model LogisticRegression loss: 0.669649530182425
+2021-07-26 10:34:24,456 : INFO : app_logger : Model dumped to platform_os_Logestic_Reg_model.pkl
+2021-07-26 10:34:24,456 : INFO : app_logger : Model dumped to platform_os_Logestic_Reg_model.pkl
+2021-07-26 10:34:24,456 : INFO : app_logger : Model dumped to platform_os_Logestic_Reg_model.pkl
+2021-07-26 10:34:24,456 : INFO : app_logger : Model dumped to platform_os_Logestic_Reg_model.pkl
+2021-07-26 10:34:24,508 : INFO : app_logger : Model LogisticRegression accuracy: 0.528
+2021-07-26 10:34:24,508 : INFO : app_logger : Model LogisticRegression accuracy: 0.528
+2021-07-26 10:34:24,508 : INFO : app_logger : Model LogisticRegression accuracy: 0.528
+2021-07-26 10:34:24,508 : INFO : app_logger : Model LogisticRegression accuracy: 0.528
+2021-07-26 10:34:25,843 : INFO : app_logger : Model GradientBoostingClassifier training started with k-flod: 5
+2021-07-26 10:34:25,843 : INFO : app_logger : Model GradientBoostingClassifier training started with k-flod: 5
+2021-07-26 10:34:25,843 : INFO : app_logger : Model GradientBoostingClassifier training started with k-flod: 5
+2021-07-26 10:34:25,843 : INFO : app_logger : Model GradientBoostingClassifier training started with k-flod: 5
+2021-07-26 10:34:25,843 : INFO : app_logger : Model GradientBoostingClassifier training started with k-flod: 5
+2021-07-26 10:34:25,980 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5625
+2021-07-26 10:34:25,980 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5625
+2021-07-26 10:34:25,980 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5625
+2021-07-26 10:34:25,980 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5625
+2021-07-26 10:34:25,980 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5625
+2021-07-26 10:34:25,982 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6614378277661477
+2021-07-26 10:34:25,982 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6614378277661477
+2021-07-26 10:34:25,982 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6614378277661477
+2021-07-26 10:34:25,982 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6614378277661477
+2021-07-26 10:34:25,982 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6614378277661477
+2021-07-26 10:34:26,126 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5223214285714286
+2021-07-26 10:34:26,126 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5223214285714286
+2021-07-26 10:34:26,126 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5223214285714286
+2021-07-26 10:34:26,126 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5223214285714286
+2021-07-26 10:34:26,126 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5223214285714286
+2021-07-26 10:34:26,128 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6911429457272724
+2021-07-26 10:34:26,128 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6911429457272724
+2021-07-26 10:34:26,128 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6911429457272724
+2021-07-26 10:34:26,128 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6911429457272724
+2021-07-26 10:34:26,128 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6911429457272724
+2021-07-26 10:34:26,292 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5446428571428571
+2021-07-26 10:34:26,292 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5446428571428571
+2021-07-26 10:34:26,292 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5446428571428571
+2021-07-26 10:34:26,292 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5446428571428571
+2021-07-26 10:34:26,292 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5446428571428571
+2021-07-26 10:34:26,296 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.674801558131828
+2021-07-26 10:34:26,296 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.674801558131828
+2021-07-26 10:34:26,296 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.674801558131828
+2021-07-26 10:34:26,296 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.674801558131828
+2021-07-26 10:34:26,296 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.674801558131828
+2021-07-26 10:34:26,429 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5426008968609866
+2021-07-26 10:34:26,429 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5426008968609866
+2021-07-26 10:34:26,429 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5426008968609866
+2021-07-26 10:34:26,429 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5426008968609866
+2021-07-26 10:34:26,429 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5426008968609866
+2021-07-26 10:34:26,430 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6763128737049247
+2021-07-26 10:34:26,430 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6763128737049247
+2021-07-26 10:34:26,430 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6763128737049247
+2021-07-26 10:34:26,430 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6763128737049247
+2021-07-26 10:34:26,430 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6763128737049247
+2021-07-26 10:34:26,568 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5246636771300448
+2021-07-26 10:34:26,568 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5246636771300448
+2021-07-26 10:34:26,568 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5246636771300448
+2021-07-26 10:34:26,568 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5246636771300448
+2021-07-26 10:34:26,568 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5246636771300448
+2021-07-26 10:34:26,571 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6894463886843959
+2021-07-26 10:34:26,571 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6894463886843959
+2021-07-26 10:34:26,571 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6894463886843959
+2021-07-26 10:34:26,571 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6894463886843959
+2021-07-26 10:34:26,571 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6894463886843959
+2021-07-26 10:34:26,577 : INFO : app_logger : Model dumped to browser_XGBoost_model.pkl
+2021-07-26 10:34:26,577 : INFO : app_logger : Model dumped to browser_XGBoost_model.pkl
+2021-07-26 10:34:26,577 : INFO : app_logger : Model dumped to browser_XGBoost_model.pkl
+2021-07-26 10:34:26,577 : INFO : app_logger : Model dumped to browser_XGBoost_model.pkl
+2021-07-26 10:34:26,577 : INFO : app_logger : Model dumped to browser_XGBoost_model.pkl
+2021-07-26 10:34:26,594 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.584
+2021-07-26 10:34:26,594 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.584
+2021-07-26 10:34:26,594 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.584
+2021-07-26 10:34:26,594 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.584
+2021-07-26 10:34:26,594 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.584
+2021-07-26 10:34:28,181 : INFO : app_logger : Model GradientBoostingClassifier training started with k-flod: 5
+2021-07-26 10:34:28,181 : INFO : app_logger : Model GradientBoostingClassifier training started with k-flod: 5
+2021-07-26 10:34:28,181 : INFO : app_logger : Model GradientBoostingClassifier training started with k-flod: 5
+2021-07-26 10:34:28,181 : INFO : app_logger : Model GradientBoostingClassifier training started with k-flod: 5
+2021-07-26 10:34:28,181 : INFO : app_logger : Model GradientBoostingClassifier training started with k-flod: 5
+2021-07-26 10:34:28,181 : INFO : app_logger : Model GradientBoostingClassifier training started with k-flod: 5
+2021-07-26 10:34:28,308 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5535714285714286
+2021-07-26 10:34:28,308 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5535714285714286
+2021-07-26 10:34:28,308 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5535714285714286
+2021-07-26 10:34:28,308 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5535714285714286
+2021-07-26 10:34:28,308 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5535714285714286
+2021-07-26 10:34:28,308 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5535714285714286
+2021-07-26 10:34:28,310 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6681531047810609
+2021-07-26 10:34:28,310 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6681531047810609
+2021-07-26 10:34:28,310 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6681531047810609
+2021-07-26 10:34:28,310 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6681531047810609
+2021-07-26 10:34:28,310 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6681531047810609
+2021-07-26 10:34:28,310 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6681531047810609
+2021-07-26 10:34:28,458 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5133928571428571
+2021-07-26 10:34:28,458 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5133928571428571
+2021-07-26 10:34:28,458 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5133928571428571
+2021-07-26 10:34:28,458 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5133928571428571
+2021-07-26 10:34:28,458 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5133928571428571
+2021-07-26 10:34:28,458 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5133928571428571
+2021-07-26 10:34:28,460 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6975723208794503
+2021-07-26 10:34:28,460 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6975723208794503
+2021-07-26 10:34:28,460 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6975723208794503
+2021-07-26 10:34:28,460 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6975723208794503
+2021-07-26 10:34:28,460 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6975723208794503
+2021-07-26 10:34:28,460 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6975723208794503
+2021-07-26 10:34:28,603 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5357142857142857
+2021-07-26 10:34:28,603 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5357142857142857
+2021-07-26 10:34:28,603 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5357142857142857
+2021-07-26 10:34:28,603 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5357142857142857
+2021-07-26 10:34:28,603 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5357142857142857
+2021-07-26 10:34:28,603 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5357142857142857
+2021-07-26 10:34:28,605 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6813851438692469
+2021-07-26 10:34:28,605 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6813851438692469
+2021-07-26 10:34:28,605 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6813851438692469
+2021-07-26 10:34:28,605 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6813851438692469
+2021-07-26 10:34:28,605 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6813851438692469
+2021-07-26 10:34:28,605 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6813851438692469
+2021-07-26 10:34:28,731 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5246636771300448
+2021-07-26 10:34:28,731 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5246636771300448
+2021-07-26 10:34:28,731 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5246636771300448
+2021-07-26 10:34:28,731 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5246636771300448
+2021-07-26 10:34:28,731 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5246636771300448
+2021-07-26 10:34:28,731 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5246636771300448
+2021-07-26 10:34:28,733 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6894463886843959
+2021-07-26 10:34:28,733 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6894463886843959
+2021-07-26 10:34:28,733 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6894463886843959
+2021-07-26 10:34:28,733 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6894463886843959
+2021-07-26 10:34:28,733 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6894463886843959
+2021-07-26 10:34:28,733 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6894463886843959
+2021-07-26 10:34:28,863 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5291479820627802
+2021-07-26 10:34:28,863 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5291479820627802
+2021-07-26 10:34:28,863 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5291479820627802
+2021-07-26 10:34:28,863 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5291479820627802
+2021-07-26 10:34:28,863 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5291479820627802
+2021-07-26 10:34:28,863 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5291479820627802
+2021-07-26 10:34:28,865 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6861865766227285
+2021-07-26 10:34:28,865 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6861865766227285
+2021-07-26 10:34:28,865 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6861865766227285
+2021-07-26 10:34:28,865 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6861865766227285
+2021-07-26 10:34:28,865 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6861865766227285
+2021-07-26 10:34:28,865 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6861865766227285
+2021-07-26 10:34:28,870 : INFO : app_logger : Model dumped to platforrm_os_XGBoost_model.pkl
+2021-07-26 10:34:28,870 : INFO : app_logger : Model dumped to platforrm_os_XGBoost_model.pkl
+2021-07-26 10:34:28,870 : INFO : app_logger : Model dumped to platforrm_os_XGBoost_model.pkl
+2021-07-26 10:34:28,870 : INFO : app_logger : Model dumped to platforrm_os_XGBoost_model.pkl
+2021-07-26 10:34:28,870 : INFO : app_logger : Model dumped to platforrm_os_XGBoost_model.pkl
+2021-07-26 10:34:28,870 : INFO : app_logger : Model dumped to platforrm_os_XGBoost_model.pkl
+2021-07-26 10:34:28,884 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.552
+2021-07-26 10:34:28,884 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.552
+2021-07-26 10:34:28,884 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.552
+2021-07-26 10:34:28,884 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.552
+2021-07-26 10:34:28,884 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.552
+2021-07-26 10:34:28,884 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.552
+2021-07-26 10:34:30,106 : INFO : app_logger : Model loaded from ../models/browser_decision_tree_model.pkl
+2021-07-26 10:34:30,106 : INFO : app_logger : Model loaded from ../models/browser_decision_tree_model.pkl
+2021-07-26 10:34:30,106 : INFO : app_logger : Model loaded from ../models/browser_decision_tree_model.pkl
+2021-07-26 10:34:30,106 : INFO : app_logger : Model loaded from ../models/browser_decision_tree_model.pkl
+2021-07-26 10:34:30,106 : INFO : app_logger : Model loaded from ../models/browser_decision_tree_model.pkl
+2021-07-26 10:34:30,106 : INFO : app_logger : Model loaded from ../models/browser_decision_tree_model.pkl
+2021-07-26 10:34:30,108 : INFO : app_logger : Model loaded from ../models/platform_os_decision_tree_model.pkl
+2021-07-26 10:34:30,108 : INFO : app_logger : Model loaded from ../models/platform_os_decision_tree_model.pkl
+2021-07-26 10:34:30,108 : INFO : app_logger : Model loaded from ../models/platform_os_decision_tree_model.pkl
+2021-07-26 10:34:30,108 : INFO : app_logger : Model loaded from ../models/platform_os_decision_tree_model.pkl
+2021-07-26 10:34:30,108 : INFO : app_logger : Model loaded from ../models/platform_os_decision_tree_model.pkl
+2021-07-26 10:34:30,108 : INFO : app_logger : Model loaded from ../models/platform_os_decision_tree_model.pkl
+2021-07-26 10:34:35,534 : INFO : app_logger : Model loaded from ../models/browser_Logestic_Reg_model.pkl
+2021-07-26 10:34:35,534 : INFO : app_logger : Model loaded from ../models/browser_Logestic_Reg_model.pkl
+2021-07-26 10:34:35,534 : INFO : app_logger : Model loaded from ../models/browser_Logestic_Reg_model.pkl
+2021-07-26 10:34:35,534 : INFO : app_logger : Model loaded from ../models/browser_Logestic_Reg_model.pkl
+2021-07-26 10:34:35,534 : INFO : app_logger : Model loaded from ../models/browser_Logestic_Reg_model.pkl
+2021-07-26 10:34:35,534 : INFO : app_logger : Model loaded from ../models/browser_Logestic_Reg_model.pkl
+2021-07-26 10:34:35,539 : INFO : app_logger : Model loaded from ../models/platform_os_Logestic_Reg_model.pkl
+2021-07-26 10:34:35,539 : INFO : app_logger : Model loaded from ../models/platform_os_Logestic_Reg_model.pkl
+2021-07-26 10:34:35,539 : INFO : app_logger : Model loaded from ../models/platform_os_Logestic_Reg_model.pkl
+2021-07-26 10:34:35,539 : INFO : app_logger : Model loaded from ../models/platform_os_Logestic_Reg_model.pkl
+2021-07-26 10:34:35,539 : INFO : app_logger : Model loaded from ../models/platform_os_Logestic_Reg_model.pkl
+2021-07-26 10:34:35,539 : INFO : app_logger : Model loaded from ../models/platform_os_Logestic_Reg_model.pkl
+2021-07-26 10:34:38,699 : INFO : app_logger : Model loaded from ../models/browser_XGBoost_model.pkl
+2021-07-26 10:34:38,699 : INFO : app_logger : Model loaded from ../models/browser_XGBoost_model.pkl
+2021-07-26 10:34:38,699 : INFO : app_logger : Model loaded from ../models/browser_XGBoost_model.pkl
+2021-07-26 10:34:38,699 : INFO : app_logger : Model loaded from ../models/browser_XGBoost_model.pkl
+2021-07-26 10:34:38,699 : INFO : app_logger : Model loaded from ../models/browser_XGBoost_model.pkl
+2021-07-26 10:34:38,699 : INFO : app_logger : Model loaded from ../models/browser_XGBoost_model.pkl
+2021-07-26 10:34:38,706 : INFO : app_logger : Model loaded from ../models/platforrm_os_XGBoost_model.pkl
+2021-07-26 10:34:38,706 : INFO : app_logger : Model loaded from ../models/platforrm_os_XGBoost_model.pkl
+2021-07-26 10:34:38,706 : INFO : app_logger : Model loaded from ../models/platforrm_os_XGBoost_model.pkl
+2021-07-26 10:34:38,706 : INFO : app_logger : Model loaded from ../models/platforrm_os_XGBoost_model.pkl
+2021-07-26 10:34:38,706 : INFO : app_logger : Model loaded from ../models/platforrm_os_XGBoost_model.pkl
+2021-07-26 10:34:38,706 : INFO : app_logger : Model loaded from ../models/platforrm_os_XGBoost_model.pkl
+2021-07-26 10:46:05,880 : INFO : app_logger : Model DecisionTreesModel training started
+2021-07-26 10:46:05,894 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.5714285714285714
+2021-07-26 10:46:05,896 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.6546536707079771
+2021-07-26 10:46:05,913 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.53125
+2021-07-26 10:46:05,914 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.6846531968814576
+2021-07-26 10:46:05,929 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.5580357142857143
+2021-07-26 10:46:05,931 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.6648039453209388
+2021-07-26 10:46:05,953 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.515695067264574
+2021-07-26 10:46:05,955 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.6959202057243532
+2021-07-26 10:46:05,974 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.5650224215246636
+2021-07-26 10:46:05,977 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.6595282999806273
+2021-07-26 10:46:05,982 : INFO : app_logger : Model dumped to browser_decision_tree_model.pkl
+2021-07-26 10:46:06,287 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.544
+2021-07-26 10:46:09,162 : INFO : app_logger : Model DecisionTreesModel training started
+2021-07-26 10:46:09,162 : INFO : app_logger : Model DecisionTreesModel training started
+2021-07-26 10:46:09,175 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.5535714285714286
+2021-07-26 10:46:09,175 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.5535714285714286
+2021-07-26 10:46:09,177 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.6681531047810609
+2021-07-26 10:46:09,177 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.6681531047810609
+2021-07-26 10:46:09,194 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.5267857142857143
+2021-07-26 10:46:09,194 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.5267857142857143
+2021-07-26 10:46:09,195 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.6879057244377936
+2021-07-26 10:46:09,195 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.6879057244377936
+2021-07-26 10:46:09,224 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.5535714285714286
+2021-07-26 10:46:09,224 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.5535714285714286
+2021-07-26 10:46:09,226 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.6681531047810609
+2021-07-26 10:46:09,226 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.6681531047810609
+2021-07-26 10:46:09,244 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.5022421524663677
+2021-07-26 10:46:09,244 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.5022421524663677
+2021-07-26 10:46:09,246 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.705519558576254
+2021-07-26 10:46:09,246 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.705519558576254
+2021-07-26 10:46:09,261 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.5426008968609866
+2021-07-26 10:46:09,261 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.5426008968609866
+2021-07-26 10:46:09,263 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.6763128737049247
+2021-07-26 10:46:09,263 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.6763128737049247
+2021-07-26 10:46:09,267 : INFO : app_logger : Model dumped to platform_os_decision_tree_model.pkl
+2021-07-26 10:46:09,267 : INFO : app_logger : Model dumped to platform_os_decision_tree_model.pkl
+2021-07-26 10:46:09,278 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.568
+2021-07-26 10:46:09,278 : INFO : app_logger : Model DecisionTreesModel accuracy: 0.568
+2021-07-26 10:46:11,412 : INFO : app_logger : Model LogisticRegression training started with kflod: 5
+2021-07-26 10:46:11,412 : INFO : app_logger : Model LogisticRegression training started with kflod: 5
+2021-07-26 10:46:11,412 : INFO : app_logger : Model LogisticRegression training started with kflod: 5
+2021-07-26 10:46:11,439 : INFO : app_logger : Model LogisticRegression accuracy: 0.5446428571428571
+2021-07-26 10:46:11,439 : INFO : app_logger : Model LogisticRegression accuracy: 0.5446428571428571
+2021-07-26 10:46:11,439 : INFO : app_logger : Model LogisticRegression accuracy: 0.5446428571428571
+2021-07-26 10:46:11,441 : INFO : app_logger : Model LogisticRegression loss: 0.674801558131828
+2021-07-26 10:46:11,441 : INFO : app_logger : Model LogisticRegression loss: 0.674801558131828
+2021-07-26 10:46:11,441 : INFO : app_logger : Model LogisticRegression loss: 0.674801558131828
+2021-07-26 10:46:11,501 : INFO : app_logger : Model LogisticRegression accuracy: 0.5267857142857143
+2021-07-26 10:46:11,501 : INFO : app_logger : Model LogisticRegression accuracy: 0.5267857142857143
+2021-07-26 10:46:11,501 : INFO : app_logger : Model LogisticRegression accuracy: 0.5267857142857143
+2021-07-26 10:46:11,504 : INFO : app_logger : Model LogisticRegression loss: 0.6879057244377936
+2021-07-26 10:46:11,504 : INFO : app_logger : Model LogisticRegression loss: 0.6879057244377936
+2021-07-26 10:46:11,504 : INFO : app_logger : Model LogisticRegression loss: 0.6879057244377936
+2021-07-26 10:46:11,552 : INFO : app_logger : Model LogisticRegression accuracy: 0.5535714285714286
+2021-07-26 10:46:11,552 : INFO : app_logger : Model LogisticRegression accuracy: 0.5535714285714286
+2021-07-26 10:46:11,552 : INFO : app_logger : Model LogisticRegression accuracy: 0.5535714285714286
+2021-07-26 10:46:11,554 : INFO : app_logger : Model LogisticRegression loss: 0.6681531047810609
+2021-07-26 10:46:11,554 : INFO : app_logger : Model LogisticRegression loss: 0.6681531047810609
+2021-07-26 10:46:11,554 : INFO : app_logger : Model LogisticRegression loss: 0.6681531047810609
+2021-07-26 10:46:11,582 : INFO : app_logger : Model LogisticRegression accuracy: 0.5426008968609866
+2021-07-26 10:46:11,582 : INFO : app_logger : Model LogisticRegression accuracy: 0.5426008968609866
+2021-07-26 10:46:11,582 : INFO : app_logger : Model LogisticRegression accuracy: 0.5426008968609866
+2021-07-26 10:46:11,584 : INFO : app_logger : Model LogisticRegression loss: 0.6763128737049247
+2021-07-26 10:46:11,584 : INFO : app_logger : Model LogisticRegression loss: 0.6763128737049247
+2021-07-26 10:46:11,584 : INFO : app_logger : Model LogisticRegression loss: 0.6763128737049247
+2021-07-26 10:46:11,618 : INFO : app_logger : Model LogisticRegression accuracy: 0.5739910313901345
+2021-07-26 10:46:11,618 : INFO : app_logger : Model LogisticRegression accuracy: 0.5739910313901345
+2021-07-26 10:46:11,618 : INFO : app_logger : Model LogisticRegression accuracy: 0.5739910313901345
+2021-07-26 10:46:11,624 : INFO : app_logger : Model LogisticRegression loss: 0.652693625378604
+2021-07-26 10:46:11,624 : INFO : app_logger : Model LogisticRegression loss: 0.652693625378604
+2021-07-26 10:46:11,624 : INFO : app_logger : Model LogisticRegression loss: 0.652693625378604
+2021-07-26 10:46:11,631 : INFO : app_logger : Model dumped to browser_Logestic_Reg_model.pkl
+2021-07-26 10:46:11,631 : INFO : app_logger : Model dumped to browser_Logestic_Reg_model.pkl
+2021-07-26 10:46:11,631 : INFO : app_logger : Model dumped to browser_Logestic_Reg_model.pkl
+2021-07-26 10:46:11,652 : INFO : app_logger : Model LogisticRegression accuracy: 0.552
+2021-07-26 10:46:11,652 : INFO : app_logger : Model LogisticRegression accuracy: 0.552
+2021-07-26 10:46:11,652 : INFO : app_logger : Model LogisticRegression accuracy: 0.552
+2021-07-26 10:46:12,220 : INFO : app_logger : Model LogisticRegression training started with kflod: 5
+2021-07-26 10:46:12,220 : INFO : app_logger : Model LogisticRegression training started with kflod: 5
+2021-07-26 10:46:12,220 : INFO : app_logger : Model LogisticRegression training started with kflod: 5
+2021-07-26 10:46:12,220 : INFO : app_logger : Model LogisticRegression training started with kflod: 5
+2021-07-26 10:46:12,260 : INFO : app_logger : Model LogisticRegression accuracy: 0.5178571428571429
+2021-07-26 10:46:12,260 : INFO : app_logger : Model LogisticRegression accuracy: 0.5178571428571429
+2021-07-26 10:46:12,260 : INFO : app_logger : Model LogisticRegression accuracy: 0.5178571428571429
+2021-07-26 10:46:12,260 : INFO : app_logger : Model LogisticRegression accuracy: 0.5178571428571429
+2021-07-26 10:46:12,262 : INFO : app_logger : Model LogisticRegression loss: 0.6943650748294136
+2021-07-26 10:46:12,262 : INFO : app_logger : Model LogisticRegression loss: 0.6943650748294136
+2021-07-26 10:46:12,262 : INFO : app_logger : Model LogisticRegression loss: 0.6943650748294136
+2021-07-26 10:46:12,262 : INFO : app_logger : Model LogisticRegression loss: 0.6943650748294136
+2021-07-26 10:46:12,298 : INFO : app_logger : Model LogisticRegression accuracy: 0.5
+2021-07-26 10:46:12,298 : INFO : app_logger : Model LogisticRegression accuracy: 0.5
+2021-07-26 10:46:12,298 : INFO : app_logger : Model LogisticRegression accuracy: 0.5
+2021-07-26 10:46:12,298 : INFO : app_logger : Model LogisticRegression accuracy: 0.5
+2021-07-26 10:46:12,299 : INFO : app_logger : Model LogisticRegression loss: 0.7071067811865476
+2021-07-26 10:46:12,299 : INFO : app_logger : Model LogisticRegression loss: 0.7071067811865476
+2021-07-26 10:46:12,299 : INFO : app_logger : Model LogisticRegression loss: 0.7071067811865476
+2021-07-26 10:46:12,299 : INFO : app_logger : Model LogisticRegression loss: 0.7071067811865476
+2021-07-26 10:46:12,326 : INFO : app_logger : Model LogisticRegression accuracy: 0.5580357142857143
+2021-07-26 10:46:12,326 : INFO : app_logger : Model LogisticRegression accuracy: 0.5580357142857143
+2021-07-26 10:46:12,326 : INFO : app_logger : Model LogisticRegression accuracy: 0.5580357142857143
+2021-07-26 10:46:12,326 : INFO : app_logger : Model LogisticRegression accuracy: 0.5580357142857143
+2021-07-26 10:46:12,332 : INFO : app_logger : Model LogisticRegression loss: 0.6648039453209388
+2021-07-26 10:46:12,332 : INFO : app_logger : Model LogisticRegression loss: 0.6648039453209388
+2021-07-26 10:46:12,332 : INFO : app_logger : Model LogisticRegression loss: 0.6648039453209388
+2021-07-26 10:46:12,332 : INFO : app_logger : Model LogisticRegression loss: 0.6648039453209388
+2021-07-26 10:46:12,371 : INFO : app_logger : Model LogisticRegression accuracy: 0.5336322869955157
+2021-07-26 10:46:12,371 : INFO : app_logger : Model LogisticRegression accuracy: 0.5336322869955157
+2021-07-26 10:46:12,371 : INFO : app_logger : Model LogisticRegression accuracy: 0.5336322869955157
+2021-07-26 10:46:12,371 : INFO : app_logger : Model LogisticRegression accuracy: 0.5336322869955157
+2021-07-26 10:46:12,378 : INFO : app_logger : Model LogisticRegression loss: 0.6829112043336852
+2021-07-26 10:46:12,378 : INFO : app_logger : Model LogisticRegression loss: 0.6829112043336852
+2021-07-26 10:46:12,378 : INFO : app_logger : Model LogisticRegression loss: 0.6829112043336852
+2021-07-26 10:46:12,378 : INFO : app_logger : Model LogisticRegression loss: 0.6829112043336852
+2021-07-26 10:46:12,416 : INFO : app_logger : Model LogisticRegression accuracy: 0.5515695067264574
+2021-07-26 10:46:12,416 : INFO : app_logger : Model LogisticRegression accuracy: 0.5515695067264574
+2021-07-26 10:46:12,416 : INFO : app_logger : Model LogisticRegression accuracy: 0.5515695067264574
+2021-07-26 10:46:12,416 : INFO : app_logger : Model LogisticRegression accuracy: 0.5515695067264574
+2021-07-26 10:46:12,418 : INFO : app_logger : Model LogisticRegression loss: 0.669649530182425
+2021-07-26 10:46:12,418 : INFO : app_logger : Model LogisticRegression loss: 0.669649530182425
+2021-07-26 10:46:12,418 : INFO : app_logger : Model LogisticRegression loss: 0.669649530182425
+2021-07-26 10:46:12,418 : INFO : app_logger : Model LogisticRegression loss: 0.669649530182425
+2021-07-26 10:46:12,421 : INFO : app_logger : Model dumped to platform_os_Logestic_Reg_model.pkl
+2021-07-26 10:46:12,421 : INFO : app_logger : Model dumped to platform_os_Logestic_Reg_model.pkl
+2021-07-26 10:46:12,421 : INFO : app_logger : Model dumped to platform_os_Logestic_Reg_model.pkl
+2021-07-26 10:46:12,421 : INFO : app_logger : Model dumped to platform_os_Logestic_Reg_model.pkl
+2021-07-26 10:46:12,442 : INFO : app_logger : Model LogisticRegression accuracy: 0.528
+2021-07-26 10:46:12,442 : INFO : app_logger : Model LogisticRegression accuracy: 0.528
+2021-07-26 10:46:12,442 : INFO : app_logger : Model LogisticRegression accuracy: 0.528
+2021-07-26 10:46:12,442 : INFO : app_logger : Model LogisticRegression accuracy: 0.528
+2021-07-26 10:46:12,971 : INFO : app_logger : Model GradientBoostingClassifier training started with k-flod: 5
+2021-07-26 10:46:12,971 : INFO : app_logger : Model GradientBoostingClassifier training started with k-flod: 5
+2021-07-26 10:46:12,971 : INFO : app_logger : Model GradientBoostingClassifier training started with k-flod: 5
+2021-07-26 10:46:12,971 : INFO : app_logger : Model GradientBoostingClassifier training started with k-flod: 5
+2021-07-26 10:46:12,971 : INFO : app_logger : Model GradientBoostingClassifier training started with k-flod: 5
+2021-07-26 10:46:13,112 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5625
+2021-07-26 10:46:13,112 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5625
+2021-07-26 10:46:13,112 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5625
+2021-07-26 10:46:13,112 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5625
+2021-07-26 10:46:13,112 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5625
+2021-07-26 10:46:13,114 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6614378277661477
+2021-07-26 10:46:13,114 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6614378277661477
+2021-07-26 10:46:13,114 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6614378277661477
+2021-07-26 10:46:13,114 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6614378277661477
+2021-07-26 10:46:13,114 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6614378277661477
+2021-07-26 10:46:13,249 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5223214285714286
+2021-07-26 10:46:13,249 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5223214285714286
+2021-07-26 10:46:13,249 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5223214285714286
+2021-07-26 10:46:13,249 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5223214285714286
+2021-07-26 10:46:13,249 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5223214285714286
+2021-07-26 10:46:13,251 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6911429457272724
+2021-07-26 10:46:13,251 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6911429457272724
+2021-07-26 10:46:13,251 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6911429457272724
+2021-07-26 10:46:13,251 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6911429457272724
+2021-07-26 10:46:13,251 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6911429457272724
+2021-07-26 10:46:13,398 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5401785714285714
+2021-07-26 10:46:13,398 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5401785714285714
+2021-07-26 10:46:13,398 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5401785714285714
+2021-07-26 10:46:13,398 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5401785714285714
+2021-07-26 10:46:13,398 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5401785714285714
+2021-07-26 10:46:13,400 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6781013409302687
+2021-07-26 10:46:13,400 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6781013409302687
+2021-07-26 10:46:13,400 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6781013409302687
+2021-07-26 10:46:13,400 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6781013409302687
+2021-07-26 10:46:13,400 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6781013409302687
+2021-07-26 10:46:13,527 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.547085201793722
+2021-07-26 10:46:13,527 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.547085201793722
+2021-07-26 10:46:13,527 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.547085201793722
+2021-07-26 10:46:13,527 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.547085201793722
+2021-07-26 10:46:13,527 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.547085201793722
+2021-07-26 10:46:13,528 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6729894488075411
+2021-07-26 10:46:13,528 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6729894488075411
+2021-07-26 10:46:13,528 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6729894488075411
+2021-07-26 10:46:13,528 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6729894488075411
+2021-07-26 10:46:13,528 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6729894488075411
+2021-07-26 10:46:13,654 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5246636771300448
+2021-07-26 10:46:13,654 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5246636771300448
+2021-07-26 10:46:13,654 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5246636771300448
+2021-07-26 10:46:13,654 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5246636771300448
+2021-07-26 10:46:13,654 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5246636771300448
+2021-07-26 10:46:13,655 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6894463886843959
+2021-07-26 10:46:13,655 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6894463886843959
+2021-07-26 10:46:13,655 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6894463886843959
+2021-07-26 10:46:13,655 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6894463886843959
+2021-07-26 10:46:13,655 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6894463886843959
+2021-07-26 10:46:13,659 : INFO : app_logger : Model dumped to browser_XGBoost_model.pkl
+2021-07-26 10:46:13,659 : INFO : app_logger : Model dumped to browser_XGBoost_model.pkl
+2021-07-26 10:46:13,659 : INFO : app_logger : Model dumped to browser_XGBoost_model.pkl
+2021-07-26 10:46:13,659 : INFO : app_logger : Model dumped to browser_XGBoost_model.pkl
+2021-07-26 10:46:13,659 : INFO : app_logger : Model dumped to browser_XGBoost_model.pkl
+2021-07-26 10:46:13,676 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.584
+2021-07-26 10:46:13,676 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.584
+2021-07-26 10:46:13,676 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.584
+2021-07-26 10:46:13,676 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.584
+2021-07-26 10:46:13,676 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.584
+2021-07-26 10:46:14,014 : INFO : app_logger : Model GradientBoostingClassifier training started with k-flod: 5
+2021-07-26 10:46:14,014 : INFO : app_logger : Model GradientBoostingClassifier training started with k-flod: 5
+2021-07-26 10:46:14,014 : INFO : app_logger : Model GradientBoostingClassifier training started with k-flod: 5
+2021-07-26 10:46:14,014 : INFO : app_logger : Model GradientBoostingClassifier training started with k-flod: 5
+2021-07-26 10:46:14,014 : INFO : app_logger : Model GradientBoostingClassifier training started with k-flod: 5
+2021-07-26 10:46:14,014 : INFO : app_logger : Model GradientBoostingClassifier training started with k-flod: 5
+2021-07-26 10:46:14,156 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5535714285714286
+2021-07-26 10:46:14,156 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5535714285714286
+2021-07-26 10:46:14,156 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5535714285714286
+2021-07-26 10:46:14,156 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5535714285714286
+2021-07-26 10:46:14,156 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5535714285714286
+2021-07-26 10:46:14,156 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5535714285714286
+2021-07-26 10:46:14,159 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6681531047810609
+2021-07-26 10:46:14,159 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6681531047810609
+2021-07-26 10:46:14,159 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6681531047810609
+2021-07-26 10:46:14,159 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6681531047810609
+2021-07-26 10:46:14,159 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6681531047810609
+2021-07-26 10:46:14,159 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6681531047810609
+2021-07-26 10:46:14,288 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5133928571428571
+2021-07-26 10:46:14,288 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5133928571428571
+2021-07-26 10:46:14,288 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5133928571428571
+2021-07-26 10:46:14,288 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5133928571428571
+2021-07-26 10:46:14,288 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5133928571428571
+2021-07-26 10:46:14,288 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5133928571428571
+2021-07-26 10:46:14,289 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6975723208794503
+2021-07-26 10:46:14,289 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6975723208794503
+2021-07-26 10:46:14,289 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6975723208794503
+2021-07-26 10:46:14,289 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6975723208794503
+2021-07-26 10:46:14,289 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6975723208794503
+2021-07-26 10:46:14,289 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6975723208794503
+2021-07-26 10:46:14,409 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5357142857142857
+2021-07-26 10:46:14,409 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5357142857142857
+2021-07-26 10:46:14,409 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5357142857142857
+2021-07-26 10:46:14,409 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5357142857142857
+2021-07-26 10:46:14,409 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5357142857142857
+2021-07-26 10:46:14,409 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5357142857142857
+2021-07-26 10:46:14,411 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6813851438692469
+2021-07-26 10:46:14,411 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6813851438692469
+2021-07-26 10:46:14,411 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6813851438692469
+2021-07-26 10:46:14,411 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6813851438692469
+2021-07-26 10:46:14,411 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6813851438692469
+2021-07-26 10:46:14,411 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6813851438692469
+2021-07-26 10:46:14,531 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5291479820627802
+2021-07-26 10:46:14,531 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5291479820627802
+2021-07-26 10:46:14,531 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5291479820627802
+2021-07-26 10:46:14,531 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5291479820627802
+2021-07-26 10:46:14,531 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5291479820627802
+2021-07-26 10:46:14,531 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5291479820627802
+2021-07-26 10:46:14,532 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6861865766227285
+2021-07-26 10:46:14,532 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6861865766227285
+2021-07-26 10:46:14,532 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6861865766227285
+2021-07-26 10:46:14,532 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6861865766227285
+2021-07-26 10:46:14,532 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6861865766227285
+2021-07-26 10:46:14,532 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6861865766227285
+2021-07-26 10:46:14,674 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5291479820627802
+2021-07-26 10:46:14,674 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5291479820627802
+2021-07-26 10:46:14,674 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5291479820627802
+2021-07-26 10:46:14,674 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5291479820627802
+2021-07-26 10:46:14,674 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5291479820627802
+2021-07-26 10:46:14,674 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.5291479820627802
+2021-07-26 10:46:14,679 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6861865766227285
+2021-07-26 10:46:14,679 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6861865766227285
+2021-07-26 10:46:14,679 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6861865766227285
+2021-07-26 10:46:14,679 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6861865766227285
+2021-07-26 10:46:14,679 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6861865766227285
+2021-07-26 10:46:14,679 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.6861865766227285
+2021-07-26 10:46:14,684 : INFO : app_logger : Model dumped to platforrm_os_XGBoost_model.pkl
+2021-07-26 10:46:14,684 : INFO : app_logger : Model dumped to platforrm_os_XGBoost_model.pkl
+2021-07-26 10:46:14,684 : INFO : app_logger : Model dumped to platforrm_os_XGBoost_model.pkl
+2021-07-26 10:46:14,684 : INFO : app_logger : Model dumped to platforrm_os_XGBoost_model.pkl
+2021-07-26 10:46:14,684 : INFO : app_logger : Model dumped to platforrm_os_XGBoost_model.pkl
+2021-07-26 10:46:14,684 : INFO : app_logger : Model dumped to platforrm_os_XGBoost_model.pkl
+2021-07-26 10:46:14,701 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.552
+2021-07-26 10:46:14,701 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.552
+2021-07-26 10:46:14,701 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.552
+2021-07-26 10:46:14,701 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.552
+2021-07-26 10:46:14,701 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.552
+2021-07-26 10:46:14,701 : INFO : app_logger : Model GradientBoostingClassifier accuracy: 0.552
+2021-07-26 10:46:16,010 : INFO : app_logger : Model loaded from ../models/browser_decision_tree_model.pkl
+2021-07-26 10:46:16,010 : INFO : app_logger : Model loaded from ../models/browser_decision_tree_model.pkl
+2021-07-26 10:46:16,010 : INFO : app_logger : Model loaded from ../models/browser_decision_tree_model.pkl
+2021-07-26 10:46:16,010 : INFO : app_logger : Model loaded from ../models/browser_decision_tree_model.pkl
+2021-07-26 10:46:16,010 : INFO : app_logger : Model loaded from ../models/browser_decision_tree_model.pkl
+2021-07-26 10:46:16,010 : INFO : app_logger : Model loaded from ../models/browser_decision_tree_model.pkl
+2021-07-26 10:46:16,010 : INFO : app_logger : Model loaded from ../models/browser_decision_tree_model.pkl
+2021-07-26 10:46:16,011 : INFO : app_logger : Model loaded from ../models/platform_os_decision_tree_model.pkl
+2021-07-26 10:46:16,011 : INFO : app_logger : Model loaded from ../models/platform_os_decision_tree_model.pkl
+2021-07-26 10:46:16,011 : INFO : app_logger : Model loaded from ../models/platform_os_decision_tree_model.pkl
+2021-07-26 10:46:16,011 : INFO : app_logger : Model loaded from ../models/platform_os_decision_tree_model.pkl
+2021-07-26 10:46:16,011 : INFO : app_logger : Model loaded from ../models/platform_os_decision_tree_model.pkl
+2021-07-26 10:46:16,011 : INFO : app_logger : Model loaded from ../models/platform_os_decision_tree_model.pkl
+2021-07-26 10:46:16,011 : INFO : app_logger : Model loaded from ../models/platform_os_decision_tree_model.pkl
+2021-07-26 10:46:20,683 : INFO : app_logger : DecisionTree model tuning with run_name: DT-browser-model-Hyperparameter done. 
+2021-07-26 10:46:20,683 : INFO : app_logger : DecisionTree model tuning with run_name: DT-browser-model-Hyperparameter done. 
+2021-07-26 10:46:20,683 : INFO : app_logger : DecisionTree model tuning with run_name: DT-browser-model-Hyperparameter done. 
+2021-07-26 10:46:20,683 : INFO : app_logger : DecisionTree model tuning with run_name: DT-browser-model-Hyperparameter done. 
+2021-07-26 10:46:20,683 : INFO : app_logger : DecisionTree model tuning with run_name: DT-browser-model-Hyperparameter done. 
+2021-07-26 10:46:20,683 : INFO : app_logger : DecisionTree model tuning with run_name: DT-browser-model-Hyperparameter done. 
+2021-07-26 10:46:20,683 : INFO : app_logger : DecisionTree model tuning with run_name: DT-browser-model-Hyperparameter done. 
+2021-07-26 10:46:20,683 : INFO : app_logger : model features logged to mlfow with  experiment: DecisionTree-tune and run_nameDT-browser-model-Hyperparameter and  done. 
+2021-07-26 10:46:20,683 : INFO : app_logger : model features logged to mlfow with  experiment: DecisionTree-tune and run_nameDT-browser-model-Hyperparameter and  done. 
+2021-07-26 10:46:20,683 : INFO : app_logger : model features logged to mlfow with  experiment: DecisionTree-tune and run_nameDT-browser-model-Hyperparameter and  done. 
+2021-07-26 10:46:20,683 : INFO : app_logger : model features logged to mlfow with  experiment: DecisionTree-tune and run_nameDT-browser-model-Hyperparameter and  done. 
+2021-07-26 10:46:20,683 : INFO : app_logger : model features logged to mlfow with  experiment: DecisionTree-tune and run_nameDT-browser-model-Hyperparameter and  done. 
+2021-07-26 10:46:20,683 : INFO : app_logger : model features logged to mlfow with  experiment: DecisionTree-tune and run_nameDT-browser-model-Hyperparameter and  done. 
+2021-07-26 10:46:20,683 : INFO : app_logger : model features logged to mlfow with  experiment: DecisionTree-tune and run_nameDT-browser-model-Hyperparameter and  done. 
+2021-07-26 10:46:21,601 : INFO : app_logger : DecisionTree model tuning with run_name: DT-platfrom-model-Hyperparameter done. 
+2021-07-26 10:46:21,601 : INFO : app_logger : DecisionTree model tuning with run_name: DT-platfrom-model-Hyperparameter done. 
+2021-07-26 10:46:21,601 : INFO : app_logger : DecisionTree model tuning with run_name: DT-platfrom-model-Hyperparameter done. 
+2021-07-26 10:46:21,601 : INFO : app_logger : DecisionTree model tuning with run_name: DT-platfrom-model-Hyperparameter done. 
+2021-07-26 10:46:21,601 : INFO : app_logger : DecisionTree model tuning with run_name: DT-platfrom-model-Hyperparameter done. 
+2021-07-26 10:46:21,601 : INFO : app_logger : DecisionTree model tuning with run_name: DT-platfrom-model-Hyperparameter done. 
+2021-07-26 10:46:21,601 : INFO : app_logger : DecisionTree model tuning with run_name: DT-platfrom-model-Hyperparameter done. 
+2021-07-26 10:46:21,601 : INFO : app_logger : model features logged to mlfow with  experiment: DecisionTree-tune and run_nameDT-platfrom-model-Hyperparameter and  done. 
+2021-07-26 10:46:21,601 : INFO : app_logger : model features logged to mlfow with  experiment: DecisionTree-tune and run_nameDT-platfrom-model-Hyperparameter and  done. 
+2021-07-26 10:46:21,601 : INFO : app_logger : model features logged to mlfow with  experiment: DecisionTree-tune and run_nameDT-platfrom-model-Hyperparameter and  done. 
+2021-07-26 10:46:21,601 : INFO : app_logger : model features logged to mlfow with  experiment: DecisionTree-tune and run_nameDT-platfrom-model-Hyperparameter and  done. 
+2021-07-26 10:46:21,601 : INFO : app_logger : model features logged to mlfow with  experiment: DecisionTree-tune and run_nameDT-platfrom-model-Hyperparameter and  done. 
+2021-07-26 10:46:21,601 : INFO : app_logger : model features logged to mlfow with  experiment: DecisionTree-tune and run_nameDT-platfrom-model-Hyperparameter and  done. 
+2021-07-26 10:46:21,601 : INFO : app_logger : model features logged to mlfow with  experiment: DecisionTree-tune and run_nameDT-platfrom-model-Hyperparameter and  done. 
+2021-07-26 10:46:21,620 : INFO : app_logger : Model loaded from ../models/browser_Logestic_Reg_model.pkl
+2021-07-26 10:46:21,620 : INFO : app_logger : Model loaded from ../models/browser_Logestic_Reg_model.pkl
+2021-07-26 10:46:21,620 : INFO : app_logger : Model loaded from ../models/browser_Logestic_Reg_model.pkl
+2021-07-26 10:46:21,620 : INFO : app_logger : Model loaded from ../models/browser_Logestic_Reg_model.pkl
+2021-07-26 10:46:21,620 : INFO : app_logger : Model loaded from ../models/browser_Logestic_Reg_model.pkl
+2021-07-26 10:46:21,620 : INFO : app_logger : Model loaded from ../models/browser_Logestic_Reg_model.pkl
+2021-07-26 10:46:21,620 : INFO : app_logger : Model loaded from ../models/browser_Logestic_Reg_model.pkl
+2021-07-26 10:46:21,620 : INFO : app_logger : Model loaded from ../models/browser_Logestic_Reg_model.pkl
+2021-07-26 10:46:21,622 : INFO : app_logger : Model loaded from ../models/platform_os_Logestic_Reg_model.pkl
+2021-07-26 10:46:21,622 : INFO : app_logger : Model loaded from ../models/platform_os_Logestic_Reg_model.pkl
+2021-07-26 10:46:21,622 : INFO : app_logger : Model loaded from ../models/platform_os_Logestic_Reg_model.pkl
+2021-07-26 10:46:21,622 : INFO : app_logger : Model loaded from ../models/platform_os_Logestic_Reg_model.pkl
+2021-07-26 10:46:21,622 : INFO : app_logger : Model loaded from ../models/platform_os_Logestic_Reg_model.pkl
+2021-07-26 10:46:21,622 : INFO : app_logger : Model loaded from ../models/platform_os_Logestic_Reg_model.pkl
+2021-07-26 10:46:21,622 : INFO : app_logger : Model loaded from ../models/platform_os_Logestic_Reg_model.pkl
+2021-07-26 10:46:21,622 : INFO : app_logger : Model loaded from ../models/platform_os_Logestic_Reg_model.pkl
+2021-07-26 10:46:22,858 : INFO : app_logger : LR model tuning with run_name: LR-browser-model-Hyperparameter done. 
+2021-07-26 10:46:22,858 : INFO : app_logger : LR model tuning with run_name: LR-browser-model-Hyperparameter done. 
+2021-07-26 10:46:22,858 : INFO : app_logger : LR model tuning with run_name: LR-browser-model-Hyperparameter done. 
+2021-07-26 10:46:22,858 : INFO : app_logger : LR model tuning with run_name: LR-browser-model-Hyperparameter done. 
+2021-07-26 10:46:22,858 : INFO : app_logger : LR model tuning with run_name: LR-browser-model-Hyperparameter done. 
+2021-07-26 10:46:22,858 : INFO : app_logger : LR model tuning with run_name: LR-browser-model-Hyperparameter done. 
+2021-07-26 10:46:22,858 : INFO : app_logger : LR model tuning with run_name: LR-browser-model-Hyperparameter done. 
+2021-07-26 10:46:22,858 : INFO : app_logger : LR model tuning with run_name: LR-browser-model-Hyperparameter done. 
+2021-07-26 10:46:22,858 : INFO : app_logger : model features logged to mlfow with  experiment: LogisticRegression-tune and run_nameLR-browser-model-Hyperparameter and  done. 
+2021-07-26 10:46:22,858 : INFO : app_logger : model features logged to mlfow with  experiment: LogisticRegression-tune and run_nameLR-browser-model-Hyperparameter and  done. 
+2021-07-26 10:46:22,858 : INFO : app_logger : model features logged to mlfow with  experiment: LogisticRegression-tune and run_nameLR-browser-model-Hyperparameter and  done. 
+2021-07-26 10:46:22,858 : INFO : app_logger : model features logged to mlfow with  experiment: LogisticRegression-tune and run_nameLR-browser-model-Hyperparameter and  done. 
+2021-07-26 10:46:22,858 : INFO : app_logger : model features logged to mlfow with  experiment: LogisticRegression-tune and run_nameLR-browser-model-Hyperparameter and  done. 
+2021-07-26 10:46:22,858 : INFO : app_logger : model features logged to mlfow with  experiment: LogisticRegression-tune and run_nameLR-browser-model-Hyperparameter and  done. 
+2021-07-26 10:46:22,858 : INFO : app_logger : model features logged to mlfow with  experiment: LogisticRegression-tune and run_nameLR-browser-model-Hyperparameter and  done. 
+2021-07-26 10:46:22,858 : INFO : app_logger : model features logged to mlfow with  experiment: LogisticRegression-tune and run_nameLR-browser-model-Hyperparameter and  done. 
+2021-07-26 10:46:23,940 : INFO : app_logger : LR model tuning with run_name: LR-platfrom-model-Hyperparameter done. 
+2021-07-26 10:46:23,940 : INFO : app_logger : LR model tuning with run_name: LR-platfrom-model-Hyperparameter done. 
+2021-07-26 10:46:23,940 : INFO : app_logger : LR model tuning with run_name: LR-platfrom-model-Hyperparameter done. 
+2021-07-26 10:46:23,940 : INFO : app_logger : LR model tuning with run_name: LR-platfrom-model-Hyperparameter done. 
+2021-07-26 10:46:23,940 : INFO : app_logger : LR model tuning with run_name: LR-platfrom-model-Hyperparameter done. 
+2021-07-26 10:46:23,940 : INFO : app_logger : LR model tuning with run_name: LR-platfrom-model-Hyperparameter done. 
+2021-07-26 10:46:23,940 : INFO : app_logger : LR model tuning with run_name: LR-platfrom-model-Hyperparameter done. 
+2021-07-26 10:46:23,940 : INFO : app_logger : LR model tuning with run_name: LR-platfrom-model-Hyperparameter done. 
+2021-07-26 10:46:23,940 : INFO : app_logger : model features logged to mlfow with  experiment: LogisticRegression-tune and run_nameLR-platfrom-model-Hyperparameter and  done. 
+2021-07-26 10:46:23,940 : INFO : app_logger : model features logged to mlfow with  experiment: LogisticRegression-tune and run_nameLR-platfrom-model-Hyperparameter and  done. 
+2021-07-26 10:46:23,940 : INFO : app_logger : model features logged to mlfow with  experiment: LogisticRegression-tune and run_nameLR-platfrom-model-Hyperparameter and  done. 
+2021-07-26 10:46:23,940 : INFO : app_logger : model features logged to mlfow with  experiment: LogisticRegression-tune and run_nameLR-platfrom-model-Hyperparameter and  done. 
+2021-07-26 10:46:23,940 : INFO : app_logger : model features logged to mlfow with  experiment: LogisticRegression-tune and run_nameLR-platfrom-model-Hyperparameter and  done. 
+2021-07-26 10:46:23,940 : INFO : app_logger : model features logged to mlfow with  experiment: LogisticRegression-tune and run_nameLR-platfrom-model-Hyperparameter and  done. 
+2021-07-26 10:46:23,940 : INFO : app_logger : model features logged to mlfow with  experiment: LogisticRegression-tune and run_nameLR-platfrom-model-Hyperparameter and  done. 
+2021-07-26 10:46:23,940 : INFO : app_logger : model features logged to mlfow with  experiment: LogisticRegression-tune and run_nameLR-platfrom-model-Hyperparameter and  done. 
+2021-07-26 10:46:23,962 : INFO : app_logger : Model loaded from ../models/browser_XGBoost_model.pkl
+2021-07-26 10:46:23,962 : INFO : app_logger : Model loaded from ../models/browser_XGBoost_model.pkl
+2021-07-26 10:46:23,962 : INFO : app_logger : Model loaded from ../models/browser_XGBoost_model.pkl
+2021-07-26 10:46:23,962 : INFO : app_logger : Model loaded from ../models/browser_XGBoost_model.pkl
+2021-07-26 10:46:23,962 : INFO : app_logger : Model loaded from ../models/browser_XGBoost_model.pkl
+2021-07-26 10:46:23,962 : INFO : app_logger : Model loaded from ../models/browser_XGBoost_model.pkl
+2021-07-26 10:46:23,962 : INFO : app_logger : Model loaded from ../models/browser_XGBoost_model.pkl
+2021-07-26 10:46:23,962 : INFO : app_logger : Model loaded from ../models/browser_XGBoost_model.pkl
+2021-07-26 10:46:23,962 : INFO : app_logger : Model loaded from ../models/browser_XGBoost_model.pkl
+2021-07-26 10:46:23,977 : INFO : app_logger : Model loaded from ../models/platforrm_os_XGBoost_model.pkl
+2021-07-26 10:46:23,977 : INFO : app_logger : Model loaded from ../models/platforrm_os_XGBoost_model.pkl
+2021-07-26 10:46:23,977 : INFO : app_logger : Model loaded from ../models/platforrm_os_XGBoost_model.pkl
+2021-07-26 10:46:23,977 : INFO : app_logger : Model loaded from ../models/platforrm_os_XGBoost_model.pkl
+2021-07-26 10:46:23,977 : INFO : app_logger : Model loaded from ../models/platforrm_os_XGBoost_model.pkl
+2021-07-26 10:46:23,977 : INFO : app_logger : Model loaded from ../models/platforrm_os_XGBoost_model.pkl
+2021-07-26 10:46:23,977 : INFO : app_logger : Model loaded from ../models/platforrm_os_XGBoost_model.pkl
+2021-07-26 10:46:23,977 : INFO : app_logger : Model loaded from ../models/platforrm_os_XGBoost_model.pkl
+2021-07-26 10:46:23,977 : INFO : app_logger : Model loaded from ../models/platforrm_os_XGBoost_model.pkl
+2021-07-26 10:46:25,514 : INFO : app_logger : xgb model tuning with run_name: xgb-browser-model-Hyperparameter done. 
+2021-07-26 10:46:25,514 : INFO : app_logger : xgb model tuning with run_name: xgb-browser-model-Hyperparameter done. 
+2021-07-26 10:46:25,514 : INFO : app_logger : xgb model tuning with run_name: xgb-browser-model-Hyperparameter done. 
+2021-07-26 10:46:25,514 : INFO : app_logger : xgb model tuning with run_name: xgb-browser-model-Hyperparameter done. 
+2021-07-26 10:46:25,514 : INFO : app_logger : xgb model tuning with run_name: xgb-browser-model-Hyperparameter done. 
+2021-07-26 10:46:25,514 : INFO : app_logger : xgb model tuning with run_name: xgb-browser-model-Hyperparameter done. 
+2021-07-26 10:46:25,514 : INFO : app_logger : xgb model tuning with run_name: xgb-browser-model-Hyperparameter done. 
+2021-07-26 10:46:25,514 : INFO : app_logger : xgb model tuning with run_name: xgb-browser-model-Hyperparameter done. 
+2021-07-26 10:46:25,514 : INFO : app_logger : xgb model tuning with run_name: xgb-browser-model-Hyperparameter done. 
+2021-07-26 10:46:25,515 : INFO : app_logger : model features logged to mlfow with  experiment: XGBoost-tune-tune and run_namexgb-browser-model-Hyperparameter and  done. 
+2021-07-26 10:46:25,515 : INFO : app_logger : model features logged to mlfow with  experiment: XGBoost-tune-tune and run_namexgb-browser-model-Hyperparameter and  done. 
+2021-07-26 10:46:25,515 : INFO : app_logger : model features logged to mlfow with  experiment: XGBoost-tune-tune and run_namexgb-browser-model-Hyperparameter and  done. 
+2021-07-26 10:46:25,515 : INFO : app_logger : model features logged to mlfow with  experiment: XGBoost-tune-tune and run_namexgb-browser-model-Hyperparameter and  done. 
+2021-07-26 10:46:25,515 : INFO : app_logger : model features logged to mlfow with  experiment: XGBoost-tune-tune and run_namexgb-browser-model-Hyperparameter and  done. 
+2021-07-26 10:46:25,515 : INFO : app_logger : model features logged to mlfow with  experiment: XGBoost-tune-tune and run_namexgb-browser-model-Hyperparameter and  done. 
+2021-07-26 10:46:25,515 : INFO : app_logger : model features logged to mlfow with  experiment: XGBoost-tune-tune and run_namexgb-browser-model-Hyperparameter and  done. 
+2021-07-26 10:46:25,515 : INFO : app_logger : model features logged to mlfow with  experiment: XGBoost-tune-tune and run_namexgb-browser-model-Hyperparameter and  done. 
+2021-07-26 10:46:25,515 : INFO : app_logger : model features logged to mlfow with  experiment: XGBoost-tune-tune and run_namexgb-browser-model-Hyperparameter and  done. 
+2021-07-26 10:46:26,672 : INFO : app_logger : xgb model tuning with run_name: xgb-platfrom-model-Hyperparameter done. 
+2021-07-26 10:46:26,672 : INFO : app_logger : xgb model tuning with run_name: xgb-platfrom-model-Hyperparameter done. 
+2021-07-26 10:46:26,672 : INFO : app_logger : xgb model tuning with run_name: xgb-platfrom-model-Hyperparameter done. 
+2021-07-26 10:46:26,672 : INFO : app_logger : xgb model tuning with run_name: xgb-platfrom-model-Hyperparameter done. 
+2021-07-26 10:46:26,672 : INFO : app_logger : xgb model tuning with run_name: xgb-platfrom-model-Hyperparameter done. 
+2021-07-26 10:46:26,672 : INFO : app_logger : xgb model tuning with run_name: xgb-platfrom-model-Hyperparameter done. 
+2021-07-26 10:46:26,672 : INFO : app_logger : xgb model tuning with run_name: xgb-platfrom-model-Hyperparameter done. 
+2021-07-26 10:46:26,672 : INFO : app_logger : xgb model tuning with run_name: xgb-platfrom-model-Hyperparameter done. 
+2021-07-26 10:46:26,672 : INFO : app_logger : xgb model tuning with run_name: xgb-platfrom-model-Hyperparameter done. 
+2021-07-26 10:46:26,673 : INFO : app_logger : model features logged to mlfow with  experiment: XGBoost-tune-tune and run_namexgb-platfrom-model-Hyperparameter and  done. 
+2021-07-26 10:46:26,673 : INFO : app_logger : model features logged to mlfow with  experiment: XGBoost-tune-tune and run_namexgb-platfrom-model-Hyperparameter and  done. 
+2021-07-26 10:46:26,673 : INFO : app_logger : model features logged to mlfow with  experiment: XGBoost-tune-tune and run_namexgb-platfrom-model-Hyperparameter and  done. 
+2021-07-26 10:46:26,673 : INFO : app_logger : model features logged to mlfow with  experiment: XGBoost-tune-tune and run_namexgb-platfrom-model-Hyperparameter and  done. 
+2021-07-26 10:46:26,673 : INFO : app_logger : model features logged to mlfow with  experiment: XGBoost-tune-tune and run_namexgb-platfrom-model-Hyperparameter and  done. 
+2021-07-26 10:46:26,673 : INFO : app_logger : model features logged to mlfow with  experiment: XGBoost-tune-tune and run_namexgb-platfrom-model-Hyperparameter and  done. 
+2021-07-26 10:46:26,673 : INFO : app_logger : model features logged to mlfow with  experiment: XGBoost-tune-tune and run_namexgb-platfrom-model-Hyperparameter and  done. 
+2021-07-26 10:46:26,673 : INFO : app_logger : model features logged to mlfow with  experiment: XGBoost-tune-tune and run_namexgb-platfrom-model-Hyperparameter and  done. 
+2021-07-26 10:46:26,673 : INFO : app_logger : model features logged to mlfow with  experiment: XGBoost-tune-tune and run_namexgb-platfrom-model-Hyperparameter and  done. 

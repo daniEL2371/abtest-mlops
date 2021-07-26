@@ -7,6 +7,7 @@ from sklearn.model_selection import KFold
 from sklearn.metrics import mean_squared_error
 from sklearn.ensemble import GradientBoostingClassifier
 
+from app_logger import App_Logger
 
 
 def loss_function(actual, pred):
@@ -24,6 +25,8 @@ class XGBClassifierModel:
         self.y_test = y_test
         
         self.clf = GradientBoostingClassifier()
+        self.logger = App_Logger("models.log").get_app_logger()
+
 
         
     def train(self, folds=1):
@@ -34,6 +37,8 @@ class XGBClassifierModel:
         
         loss_arr = []
         acc_arr = []
+        self.logger.info(f"Model GradientBoostingClassifier training started with k-flod: {folds}")
+
         for i in range(folds):
             train_index, valid_index = next(iterator)
             
@@ -83,10 +88,12 @@ class XGBClassifierModel:
         return fi_df
     
     def __printAccuracy(self, acc, step=1, label=""):
-        print(f"step {step}: {label} Accuracy of DecisionTreesModel is: {acc:.3f}")
+        self.logger.info(f"Model GradientBoostingClassifier accuracy: {acc}")
+        print(f"step {step}: {label} Accuracy of GradientBoostingClassifier is: {acc:.3f}")
     
     def __printLoss(self, loss, step=1, label=""):
-        print(f"step {step}: {label} Loss of DecisionTreesModel is: {loss:.3f}")
+        self.logger.info(f"Model GradientBoostingClassifier accuracy: {loss}")
+        print(f"step {step}: {label} Loss of GradientBoostingClassifier is: {loss:.3f}")
     
     def calculate_score(self, pred, actual):
         return metrics.accuracy_score(actual, pred)

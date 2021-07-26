@@ -8,6 +8,7 @@ from sklearn.model_selection import KFold
 import scipy.stats as stat
 from sklearn.metrics import mean_squared_error
 
+from app_logger import App_Logger
 
 
 def loss_function(actual, pred):
@@ -25,6 +26,8 @@ class LogesticRegressionModel:
         self.model_name = model_name
         
         self.clf = LogisticRegression()
+        self.logger = App_Logger("models.log").get_app_logger()
+
         
     def train(self, folds=1):
         
@@ -36,6 +39,8 @@ class LogesticRegressionModel:
         acc_arr = []
         model_name= self.model_name
 #         mlflow.end_run()
+        self.logger.info(f"Model LogisticRegression training started with kflod: {folds}")
+
         for i in range(folds):
 
             train_index, valid_index = next(iterator)
@@ -72,9 +77,11 @@ class LogesticRegressionModel:
         return accuracy, loss, report, matrix 
     
     def __printAccuracy(self, acc, step=1, label=""):
+        self.logger.info(f"Model LogisticRegression accuracy: {acc}")
         print(f"step {step}: {label} Accuracy of LogesticRegression is: {acc:.3f}")
     
     def __printLoss(self, loss, step=1, label=""):
+        self.logger.info(f"Model LogisticRegression loss: {loss}")
         print(f"step {step}: {label} Loss of LogesticRegression is: {loss:.3f}")
     
     def calculate_score(self, pred, actual):
